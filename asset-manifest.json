@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff7f3213.css",
-    "main.js": "/static/js/main.cb1036bd.js",
+    "main.css": "/static/css/main.fb175e4e.css",
+    "main.js": "/static/js/main.407021b0.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -9,11 +9,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/8percent-logo.svg": "/static/media/8percent-logo.9af438c3d38d299295d2806aa40955ec.svg",
     "index.html": "/index.html",
-    "main.ff7f3213.css.map": "/static/css/main.ff7f3213.css.map",
-    "main.cb1036bd.js.map": "/static/js/main.cb1036bd.js.map"
+    "main.fb175e4e.css.map": "/static/css/main.fb175e4e.css.map",
+    "main.407021b0.js.map": "/static/js/main.407021b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff7f3213.css",
-    "static/js/main.cb1036bd.js"
+    "static/css/main.fb175e4e.css",
+    "static/js/main.407021b0.js"
   ]
 }
