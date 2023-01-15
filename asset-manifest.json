@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0a7ffb8.css",
-    "main.js": "/static/js/main.dfdf01bd.js",
+    "main.css": "/static/css/main.ff7f3213.css",
+    "main.js": "/static/js/main.cb1036bd.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/zscaler_logo.svg": "/static/media/zscaler_logo.91c869396080d2463416e3b30285c33a.svg",
+    "static/media/8percent-logo.svg": "/static/media/8percent-logo.0c2db468b29b9c2b671f2a47f748658f.svg",
     "index.html": "/index.html",
-    "main.c0a7ffb8.css.map": "/static/css/main.c0a7ffb8.css.map",
-    "main.dfdf01bd.js.map": "/static/js/main.dfdf01bd.js.map"
+    "main.ff7f3213.css.map": "/static/css/main.ff7f3213.css.map",
+    "main.cb1036bd.js.map": "/static/js/main.cb1036bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0a7ffb8.css",
-    "static/js/main.dfdf01bd.js"
+    "static/css/main.ff7f3213.css",
+    "static/js/main.cb1036bd.js"
   ]
 }
